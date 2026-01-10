@@ -30,8 +30,12 @@ Całkowity czas potrzebny na przygotowanie
 ### Tagi
 Tagi opisujące charakter dania (np. low-fat, asian, vegan, quick, dessert, healthy, comfort-food)
 
+## Wartości odżywcze
+Podaj przybliżone wartości odżywcze na porcję (kalorie, białka, tłuszcze (nasycone i nienasycone), węglowodany)
+
 ## Wskazówki od Master Chief
 Dostarczaj dodatkowe wskazówki lub sugestie dotyczące składników, technik gotowania lub prezentacji, które mogą pomóc użytkownikowi osiągnąć lepsze rezultaty.
+
 ---
 
 Wszystkie przepisy zapisuj w formacie markdown, używając języka polskiego. Każdy przepis powinien być zapisany w oddzielnym pliku .md z nazwą odpowiadającą nazwie dania (np. `spaghetti-carbonara.md`, `owsianka-z-owocami.md`).
